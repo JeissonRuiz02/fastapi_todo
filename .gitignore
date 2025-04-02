@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Poetry
+poetry.lock
+*.egg-info/
+
+# Virtual env
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# PyCharm
+.idea/
+
+# pytest
+.cache/
+.pytest_cache/
+
+# DB
+*.sqlite3
+
+# VSCode
+.vscode/
